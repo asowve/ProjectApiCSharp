@@ -1,0 +1,16 @@
+﻿*.md linguist-documentation=false
+*.md linguist-detectable
+*.md linguist-language=csharp
+
+*.cs     text eol=lf
+*.feature text eol=lf
+*.sh     text eol=lf
+*.bat    text eol=crlf
+*.ps1    text eol=crlf
+
+*.zip  filter=lfs diff=lfs merge=lfs -text
+*.html filter=lfs diff=lfs merge=lfs -text
+
+*.dll binary
+*.exe binary
+*.pdb binary

@@ -1,0 +1,12 @@
+﻿<Project>
+  <ItemGroup>
+    <PackageVersion Include="Aquality.Selenium" Version="4.27.0" />
+    <PackageVersion Include="Bogus" Version="35.6.5" />
+    <PackageVersion Include="coverlet.collector" Version="6.0.4" />
+    <PackageVersion Include="Microsoft.NET.Test.Sdk" Version="17.14.1" />
+    <PackageVersion Include="NUnit" Version="4.3.2" />
+    <PackageVersion Include="NUnit.Analyzers" Version="4.9.2" />
+    <PackageVersion Include="NUnit3TestAdapter" Version="5.2.0" />
+    <PackageVersion Include="RestSharp" Version="112.1.0" />
+  </ItemGroup>
+</Project>

@@ -1,4 +1,3 @@
-# s.iuldashev
 # JSONPlaceholder API Tests
 
 Автоматизированные API-тесты для [JSONPlaceholder](https://jsonplaceholder.typicode.com/) — бесплатного fake REST API для тестирования.
@@ -20,7 +19,7 @@
 ## 🚀 Запуск
 
 ```bash
-git clone https://github.com/SalavatYuldashev/jsonplaceholder-API-tests.git
+git clone https://github.com/asowve/jsonplaceholder-API-tests.git
 cd jsonplaceholder-API-tests
 dotnet test
 ```
@@ -115,13 +114,3 @@ RestApiTests/
 - **Data-driven подход** — данные вынесены из кода
 - **Полные модели** — все поля API представлены в DTO
 - **Десериализация** — автоматическое преобразование JSON → C# объекты
-
-## 👤 Автор
-
-**Salavat Yuldashev** — [@SalavatYuldashev](https://github.com/SalavatYuldashev)
-
-## 🔗 Ссылки
-
-- [JSONPlaceholder API](https://jsonplaceholder.typicode.com/)
-- [RestSharp Documentation](https://restsharp.dev/)
-- [NUnit Documentation](https://nunit.org/)

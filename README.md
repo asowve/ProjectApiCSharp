@@ -20,7 +20,7 @@
 
 ```bash
 git clone https://github.com/asowve/ProjectApiCSharp.git
-cd ProjectApiCSharp
+cd RestApiTests
 dotnet test
 ```
 

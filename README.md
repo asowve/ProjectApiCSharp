@@ -19,8 +19,8 @@
 ## 🚀 Запуск
 
 ```bash
-git clone https://github.com/asowve/jsonplaceholder-API-tests.git
-cd jsonplaceholder-API-tests
+git clone https://github.com/asowve/ProjectApiCSharp.git
+cd ProjectApiCSharp
 dotnet test
 ```
 
